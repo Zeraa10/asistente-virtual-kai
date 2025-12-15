@@ -1,4 +1,6 @@
-Asistente virtual KAI es un proyecto sencillo de asistente por consola desarrollado en Python, pensado como práctica de programación y como base para futuros bots más avanzados.
+#Asistente virtual KAI 
+
+es un proyecto sencillo de asistente por consola desarrollado en Python, pensado como práctica de programación y como base para futuros bots más avanzados.
 
 **Descripción**
 
